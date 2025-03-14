@@ -4,10 +4,10 @@ This repository contains SQL scripts for analyzing video game sales data. The da
 
 ## Files
 
-### 1. Create New Table Without Other Sales.sql
+### 1. Create New Table Without Other Sales
 This script creates a new table by selecting specific columns from the original dataset, excluding other sales regions.
 
-### 2. Top 5 Years, Games, Platforms, Genres, and Publishers.sql
+### 2. Top 5 Years, Games, Platforms, Genres, and Publishers
 This script performs various analyses, including:
 - Identifying the top 5 years with the highest total sales.
 - Finding the top 5 best-selling games.
@@ -15,7 +15,7 @@ This script performs various analyses, including:
 - Listing the top 5 best-selling genres.
 - Identifying the top 5 publishers with the highest total sales.
 
-### 3. Video Game Publisher Sale Analysis.sql
+### 3. Video Game Publisher Sale Analysis
 This script focuses on analyzing video game sales based on publishers, providing insights into which publishers have the highest total sales.
 
 ## Technology Used
